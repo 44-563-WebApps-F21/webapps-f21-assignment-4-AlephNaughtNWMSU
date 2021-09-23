@@ -33,3 +33,17 @@
 .baron{
     color:indianred
 }
+
+.table{
+    border: 2px rgb(0, 255, 191);
+    padding: 20px 20px 20px 20px;
+    margin: 50px 50px 50px 50px;
+    width: 75%; 
+  }
+
+  .name:hover{
+    text-shadow: 3px 3px 3px rgb(2, 2, 5);
+    color:wheat;
+    filter: brown(5px);
+    border: solid 3px rgb(2, 2, 5);
+  }
