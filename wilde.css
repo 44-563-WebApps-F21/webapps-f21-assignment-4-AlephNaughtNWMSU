@@ -1,0 +1,35 @@
+.speech {
+    font-family: 'Arial', monospace;
+    font-size: 14px;
+    color: black;
+}
+.stage_direction {
+    font-family: 'Arial', monospace;
+    font-size: 11px;
+    color: gray;
+    background-color: rgb(196, 144, 238);
+}
+.stage_direction:hover {
+    background-color: blue;
+    color: green;
+}
+.name {
+    font-family: 'Arial', monospace;
+    font-size: 16px;
+    color: blue;
+}
+.prince_petro{
+    color:cadetblue
+}
+.gen_kot{
+    color:cyan
+}
+.count{
+    color:darkorchid
+}
+.marq{
+    color:goldenrod
+}
+.baron{
+    color:indianred
+}
